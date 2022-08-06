@@ -1,0 +1,36 @@
+*{
+    background-color: wheat;
+}
+.first{
+    color:slategrey;
+    font-size:2em;
+    
+
+}
+.second{
+    color: darkturquoise;
+    font-size:32px;
+}
+
+div{
+    font-size:16px;
+}
+body{
+    text-align:center;
+}
+.first_paragraph{
+    background-color: aqua;
+    text-align: left;
+    padding: 40px;
+  
+}
+p{
+    margin: 20px auto;
+}
+.sec_par{
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    border-radius: 10%;
+}
